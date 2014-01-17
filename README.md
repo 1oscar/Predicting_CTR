@@ -2,7 +2,7 @@ Predicting_CTR
 =============
 
 Developer	: Zicong Zhou; Deepak Ananth Rama; Xu Zhang; Jason Lu
-email		: deepakananthrama@gmail.com, jaesanx@cs.ucla.edu, 
+email		: deepakananthrama@gmail.com, jaesanx@cs.ucla.edu
 Date		: March 2013
 For		: Research paper titled "Predicting Click-Through Rate for New Users and Advertisers"
 
